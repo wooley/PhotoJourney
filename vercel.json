@@ -1,0 +1,9 @@
+{
+    "build": "hexo build",
+    "deploy": "hexo deploy",
+    "environment": {
+      "theme": "Mic_Theme",
+      "branch": "production",
+      "domain": "wooley.me"
+    }
+}
