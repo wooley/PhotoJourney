@@ -1,8 +1,3 @@
 {
-    "build": "hexo build --public",
-    "environment": {
-      "theme": "Mic_Theme",
-      "branch": "production",
-      "domain": "wooley.me"
-    }
+    "build": "hexo build --public"
 }
