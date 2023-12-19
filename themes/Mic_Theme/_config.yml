@@ -28,7 +28,7 @@ Nav:
         
     pages:
         ROLE :
-            link: "/group/"
+            link: "/role/"
         GALLERY :
             link: "/gallery/"
         TAG:
