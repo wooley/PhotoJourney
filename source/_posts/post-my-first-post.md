@@ -5,4 +5,4 @@ tags:
 ---
 # 熙南里扫街
 
-<img src="https://github.com/wooley/PhotoJourney/blob/main/source/_posts/assets/SJPS5334-2994999.png" style="zoom:30%;" />
+<img src="https://github.com/wooley/PhotoJourney/blob/main/source/_posts/assets/SJPS5334-2994999.png?raw=true" style="zoom:30%;" />
