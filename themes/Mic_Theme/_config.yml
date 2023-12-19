@@ -5,48 +5,48 @@
 # Head info
 head:
     favicon: "/img/logo_miccall.png"
-    keywords: miccall
+    keywords: Mic_Theme
     backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: Photo Journey
+    slogan: "I invite you to explore my photographic journey  <br/> captured in this photo portfolio."
+    HeadButton: 影途
 
 Nav:
-    Home_name: 主页
+    Home_name: MAIN
     is_use_categories : true 
-    categories_name: 分类
+    categories_name: CATEGORY
     is_use_archives : false
-    archives_name: 归档
+    archives_name: ARCHIVES
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
         github: https://github.com/wooley
-        500px: http://500px.com
+        twitter: https://twitter.com/Diablo_gu
         
     pages:
-        简历: 
-            link: "/about/"
-        身份 :
+        ROLE :
             link: "/group/"
-        图库 :
+        GALLERY :
             link: "/gallery/"
-        标签:
+        TAG:
             link: "/tag/"
+        ABOUT: 
+            link: "/about/"
         #自定义标签名
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
+    name: 影途
+    description: The beauty of photography
     pic_url: /images/me.jpg
     goto_ulr: ""
 
 Gallery :
-    title: Mr.metro 
-    description: Just another fine responsive 
+    title: Mr.wooley
+    description: Capturing and sharing beautiful moments
 
 # ---------------------------------------------------------------
 # Style Settings
