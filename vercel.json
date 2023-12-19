@@ -1,6 +1,5 @@
 {
     "build": "hexo build --public",
-    "deploy": "hexo deploy",
     "environment": {
       "theme": "Mic_Theme",
       "branch": "production",
