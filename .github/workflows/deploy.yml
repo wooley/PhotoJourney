@@ -1,0 +1,19 @@
+name: Deploy Hexo
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: hexo-deploy-action@v1.1.0
+        with:
+          theme: "Mic_Theme"
+          deploy-repo: "wooley/PhotoJourney"
+          deploy-branch: "production"
+      - name: Run tests
+        run: hexo test
