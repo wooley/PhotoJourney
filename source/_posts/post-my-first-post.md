@@ -5,8 +5,4 @@ tags:
 ---
 # 熙南里扫街
 
-![甘熙宅第](./assets/SJPS5334-2994999.png)
-
-!(./assets/SJPS5320.png)
-
-![落叶](./assets/SJPS5327.png)
+<img src="https://github.com/wooley/PhotoJourney/blob/main/source/_posts/assets/SJPS5334-2994999.png" style="zoom:30%;" />
